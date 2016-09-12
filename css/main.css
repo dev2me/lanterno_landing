@@ -1,5 +1,5 @@
 .slider {
-  background-image: url("../images/slider.jpg");
+  background-image: url("../images/night_city.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -12,6 +12,12 @@
 .big-padding {
   padding: 150px 15px;
 }
+.small-padding {
+  padding: 2em;
+}
 .text-center {
   text-align: center;
+}
+.shadow-text {
+  text-shadow: 0px 0px 10px #222;
 }
