@@ -1,0 +1,14 @@
+{
+  "name": "workshop_page_web",
+  "version": "0.0.1",
+  "description": "Landing Page Lanterno.mx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landingpage"
+  ],
+  "author": "Jesus Rosas",
+  "license": "MIT"
+}

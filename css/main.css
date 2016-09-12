@@ -1,0 +1,14 @@
+.slider {
+  background-image: url("../images/slider.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+.no-margin {
+  margin: 0px;
+}
+.big-padding {
+  padding: 150px 15px;
+}

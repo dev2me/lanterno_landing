@@ -1,0 +1,20 @@
+{
+  "name": "workshop_page_web",
+  "description": "Landing Page Lanterno.mx",
+  "main": "index.js",
+  "authors": [
+    "Jesus Rosas"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "landingpage"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
