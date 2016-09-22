@@ -7,7 +7,7 @@
       <!-- Cards of services -->
       <div class="col m6">
         <div class="card">
-          
+          <!-- Agregar imáges al CARD-->
           <div class="card-image">
             <img src="images/seleccionpersonal.jpg">
             <span class="card-title white-text">Atracción de talento</span>
