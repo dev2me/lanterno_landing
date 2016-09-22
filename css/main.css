@@ -6,6 +6,9 @@
   width: 100%;
   position: relative;
 }
+.baloo-font {
+  font-family: 'Baloo Bhaina', cursive;
+}
 .no-margin {
   margin: 0px;
 }
